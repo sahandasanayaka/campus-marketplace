@@ -80,6 +80,6 @@ npm run web
 ---
 
 ## 📹 Video Demonstration
-- **Video Link:** [Insert your YouTube or Google Drive link here]
+- **Video Link:** [(https://drive.google.com/file/d/1HefeoHQm2k-wYkEMe7PoML0bTZMVC8y4/view?usp=sharing)]
 - **Duration:** 5 - 8 minutes
 - **Content:** Team introduction, feature overview, live roleplay demonstration, technical architecture, and GitHub branch review.
